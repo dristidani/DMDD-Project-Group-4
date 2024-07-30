@@ -1,4 +1,4 @@
-**##Access Management for Global Healthcare**
+**Access Management for Global Healthcare**
 
 **Background:**
 
